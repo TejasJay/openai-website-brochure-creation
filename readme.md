@@ -200,4 +200,3 @@ def create_brochure(self, company_name):
 2.  **AI Integration**: Uses OpenAI for complex tasks like filtering links and generating brochures.
 3.  **Web Scraping**: Extracts and processes webpage data effectively using `BeautifulSoup`.
 
-This structure is modular, reusable, and highly adaptable for similar applications.
